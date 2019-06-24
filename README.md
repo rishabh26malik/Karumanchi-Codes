@@ -15,7 +15,7 @@ For conceptual clearity refer the explaination given in the book.</p>
 <ul>
 <li>
   <ul><b>Linked lists</b>
-    `<li>create list</li>
+    ```<li>create list</li>
     <li>find middle in list</li>
     <li>detect loop in list and find length of loop</li>
     <li>detect Y in list / Intersection of 2 lists</li>
@@ -26,7 +26,7 @@ For conceptual clearity refer the explaination given in the book.</p>
     <li>merge 2 sorted lists</li>
     <li>print N th node from end</li>
     <li>implement stack using linked list</li>
-    <li>display list from end to fromt</li>`
+    <li>display list from end to fromt</li>```
   </ul>
 </li>
   <hr>

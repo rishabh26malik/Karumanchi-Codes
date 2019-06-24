@@ -5,7 +5,7 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
   <img src="https://www.docdroid.net/thumbnail/ZPfHmS5/1500,785/data-structures-and-algorithms-narasimha-karumanchi.jpg" height="200" width="700">
 </div>
 <a href="https://drive.google.com/open?id=1X5i6_HkLE4cxhq4IjT7fMVHSdsc2E-EV
-">Dowlnoad link for the book </a>Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles
+">Dowlnoad link for the book </a>Data Structures and Algorithms Made Easy By Narasimha Karumanchi (5th Edition)
 
 ### Topics covered
 <ul>

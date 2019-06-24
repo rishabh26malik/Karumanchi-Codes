@@ -22,10 +22,31 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
     <li>implement stack using linked list</li>
     <li>display list from end to fromt</li>
   </ul>
-    
-    
-    
 </li>
+  
+
+<li>
+  <ul><b>Binary Tree</b>
+    <li>create and display tree</li>
+    <li>Find deepest node in tree</li>
+    <li>Count full nodes in tree</li>
+    <li>Count half nodes in tree</li>
+    <li>Find data in tree</li>
+    <li>Sum of all nodes in tree</li>
+    <li>find height of tree</li>
+    <li>Check if 2 trees are identical or not</li>
+    <li>Check if 2 trees are mirroe of each other</li>
+    <li>Convert a tree to it's mirror</li>
+    <li>Delete a tree</li>
+    <li>find max in tree</li>
+    <li>find level with maxinmum sum in tree</li>
+    <li>Print paths to all the leaves from root</li>
+    <li>Print tree in reverse level order</li>
+  </ul>
+</li>  
+  
+  
+  
 <li>Binary tree</li>
 <li>Binary Search tree</li>
 <li>Heaps / Priority queue</li>

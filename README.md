@@ -7,7 +7,20 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
 
 ### Topics covered
 <ul>
-<li>Linked lists</li>
+<li>
+  <ul>Linked lists
+    <li>create list<li>
+    <li>find middle in list<li>
+    <li>detect loop in list and find length of loop<li>
+    <li>detect Y in list / Intersection of 2 lists<li>
+    <li>reverse pairs in a list<li>
+    <li>print n th node from end<li>
+    <li>check list is palindrom or not<li>
+  </ul>
+    
+    
+    
+</li>
 <li>Binary tree</li>
 <li>Binary Search tree</li>
 <li>Heaps / Priority queue</li>

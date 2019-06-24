@@ -29,8 +29,7 @@ For conceptual clearity refer the explaination given in the book.</p>
     <li>display list from end to fromt</li>
   </ul>
 </li>
-  
-
+  <hr>
 <li>
   <ul><b>Binary Tree</b>
     <li>create and display tree</li>
@@ -49,7 +48,8 @@ For conceptual clearity refer the explaination given in the book.</p>
     <li>Print paths to all the leaves from root</li>
     <li>Print tree in reverse level order</li>
   </ul>
-</li>  
+</li> 
+  <hr>
 <li>
 <ul><b>Binary Search Tree</b>
     <li>create and display BST</li>
@@ -62,7 +62,7 @@ For conceptual clearity refer the explaination given in the book.</p>
   <li>Find min in BST</li>
   </ul>
 </li> 
-
+<hr>
 <li>
 <ul><b>Heaps / Priority queue</b>
     <li>Max heap construction</li>

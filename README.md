@@ -10,7 +10,8 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
 ">Dowlnoad link for the book </a>Data Structures and Algorithms Made Easy By Narasimha Karumanchi (5th Edition)<br>
 For conceptual clearity refer the explaination given in the book.</p>
 </DIV>
-### Topics covered
+
+<h3>Topics covered</h3>
 <ul>
 <li>
   <ul><b>Linked lists</b>

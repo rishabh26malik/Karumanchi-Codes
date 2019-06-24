@@ -45,9 +45,27 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
   </ul>
 </li>  
   
-  
-  
-<li>Binary tree</li>
-<li>Binary Search tree</li>
-<li>Heaps / Priority queue</li>
-</ul>
+<ul><b>Binary Search Tree</b>
+    <li>create and display BST</li>
+    <li>Insert in BST</li>
+    <li>Delete a node from BST</li>
+    <li>Find key value n BST</li>
+    <li>Check BST or not using INORDER traversal</li>
+    <li>Check BST or not using MIN / MAX in subtree  method</li>
+    <li>Find max in BST</li>
+  <li>Find min in BST</li>
+  </ul>
+</li> 
+
+
+<ul><b>Heaps / Priority queue</b>
+    <li>create and display BST</li>
+    <li>Insert in BST</li>
+    <li>Delete a node from BST</li>
+    <li>Find key value n BST</li>
+    <li>Check BST or not using INORDER traversal</li>
+    <li>Check BST or not using MIN / MAX in subtree  method</li>
+    <li>Find max in BST</li>
+  <li>Find min in BST</li>
+  </ul>
+</li> 

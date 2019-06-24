@@ -8,7 +8,7 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
 ### Topics covered
 <ul>
 <li>
-  <ul>Linked lists
+  <ul><b>Linked lists</b>
     <li>create list</li>
     <li>find middle in list</li>
     <li>detect loop in list and find length of loop</li>

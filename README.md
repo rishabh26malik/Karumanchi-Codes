@@ -74,9 +74,17 @@ For conceptual clearity refer the explaination given in the book.</p>
     <li>Delete node at given index in max heap </li>
   <li>print k max elements in max heap</li>
   <li>delete arbitrary node from max heap</li>
-
   </ul>
-
+</li> 
+<hr>
+<li>
+    <ul><b>Dynamic Programming</b>
+    <li>Catalan number recursive code</li>
+    <li>Catalan number dynamic prog. way</li>
+    <li>Max contiguous sum in an array</li>
+    <li>T(n) = <sub>i=1</sub>&#8721;<sup>n-1</sup> 2 * T(i) * T(i-1) , (n>2)</li>
+   
+  </ul>
 </li> 
 </ul>
 

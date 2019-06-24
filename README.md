@@ -6,7 +6,9 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
 </div>
 
 ### Topics covered
-Linked lists
-Binary tree
-Binary Search tree
-Heaps / Priority queue
+<ul>
+<li>Linked lists</li>
+<li>Binary tree</li>
+<li>Binary Search tree</li>
+<li>Heaps / Priority queue</li>
+</ul>

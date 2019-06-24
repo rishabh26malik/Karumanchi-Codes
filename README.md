@@ -26,7 +26,8 @@ For conceptual clearity refer the explaination given in the book.</p>
     <li>merge 2 sorted lists</li>
     <li>print N th node from end</li>
     <li>implement stack using linked list</li>
-    <li>display list from end to fromt</li>```
+    <li>display list from end to fromt</li>
+    ```
   </ul>
 </li>
   <hr>

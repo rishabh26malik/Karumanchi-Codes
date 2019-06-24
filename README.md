@@ -44,7 +44,7 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
     <li>Print tree in reverse level order</li>
   </ul>
 </li>  
-  
+<li>
 <ul><b>Binary Search Tree</b>
     <li>create and display BST</li>
     <li>Insert in BST</li>
@@ -57,15 +57,16 @@ Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karu
   </ul>
 </li> 
 
-
+<li>
 <ul><b>Heaps / Priority queue</b>
-    <li>create and display BST</li>
-    <li>Insert in BST</li>
-    <li>Delete a node from BST</li>
-    <li>Find key value n BST</li>
-    <li>Check BST or not using INORDER traversal</li>
-    <li>Check BST or not using MIN / MAX in subtree  method</li>
-    <li>Find max in BST</li>
-  <li>Find min in BST</li>
+    <li>Max heap construction</li>
+    <li>Min heap construction</li>
+    <li>Find max element in min heap</li>
+    <li>Kth smallest element n min heap</li>
+    <li>Merger 2 max heaps</li>
+    <li>print nodes smaller than a key</li>
+    <li>Delete node at given index in max heap </li>
+  <li>print k max elements in max heap</li>
+  <li>delete arbitrary node from max heap</li>
   </ul>
 </li> 

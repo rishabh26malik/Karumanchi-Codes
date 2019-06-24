@@ -65,7 +65,7 @@ For conceptual clearity refer the explaination given in the book.</p>
 <hr>
 <li>
     <ul><b>Heaps / Priority queue</b>
-    <span background-color: #f18973;><li>Max heap construction</li>
+    <div background-color: red><li>Max heap construction</li>
     <li>Min heap construction</li>
     <li>Find max element in min heap</li>
     <li>Kth smallest element n min heap</li>
@@ -74,7 +74,7 @@ For conceptual clearity refer the explaination given in the book.</p>
     <li>Delete node at given index in max heap </li>
   <li>print k max elements in max heap</li>
   <li>delete arbitrary node from max heap</li>
-  </span>
+  </div>
   </ul>
 
 </li> 

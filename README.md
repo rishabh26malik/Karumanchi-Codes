@@ -1,4 +1,4 @@
-# Karumanchi-Codes
+# Karumanchi-Codes 
 Coding solutions from Data Structures And Algorithms Made Easy By Narasimha Karumanchi
 
 <div align="center" style="margin: 20px" >
@@ -27,6 +27,9 @@ For conceptual clearity refer the explaination given in the book.</p>
     <li>print N th node from end</li>
     <li>implement stack using linked list</li>
     <li>display list from end to fromt</li>
+    <li>Add All Element of Linked List as number</li>
+    <li>Add 1 to a number represented as linked list</li>
+    <li>Intersection of two sorted Linked lists </li>
   </ul>
 </li>
   <hr>
